@@ -1,0 +1,5 @@
+# Created at 2024-10-13T18:31:12.005
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Moodl Lab ЧНТУ\Технології прикладного програмування\Lab_02\gs-spring-boot-docker-main\complete\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
